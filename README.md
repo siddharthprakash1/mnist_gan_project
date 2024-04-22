@@ -16,7 +16,7 @@ The notebooks provided offer an in-depth exploration of generating digit images 
 
 To begin working with these notebooks:
 
-1. Clone this repository: git clone
+1. Clone this repository: git clone https://github.com/siddharthprakash1/mnist_gan_project.git
 2. Install required Python packages: pip install tensorflow matplotlib numpy jupyter
 3. Navigate to the project directory and launch Jupyter Notebook:
 

@@ -1,5 +1,8 @@
 # Image Generation of Numbers Using MNIST Dataset and DCGAN
 
+![DCGAN Animation](dcgan.gif)
+
+
 This repository contains Jupyter Notebooks that demonstrate image generation using the MNIST dataset and Deep Convolutional Generative Adversarial Networks (DCGAN).
 
 ## Project Overview
